@@ -21,6 +21,6 @@
 16. 轮播（Carousel）
 17. 折叠（Collapse）
 
-## 优酷视频
+## 小马视频频道（优酷）
 
 http://i.youku.com/komavideo
